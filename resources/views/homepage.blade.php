@@ -18,6 +18,6 @@
         <img src="" alt="">
         @include('guest.partials.menu')
     </header>
-    <h1>sono l'home Page</h1>
+    <h1>Hello World!</h1>
 </body>
 </html>
